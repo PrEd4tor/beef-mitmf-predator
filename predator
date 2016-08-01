@@ -1,4 +1,9 @@
 #!/bin/bash
 
 cd 
+
+chmod +x /root/Desktop/beef-mitmf-predator/PrEdAtOr-scripts/sc1.sh
+chmod +x /root/Desktop/beef-mitmf-predator/PrEdAtOr-scripts/start.sh
+
+
 bash /root/Desktop/beef-mitmf-predator/PrEdAtOr-scripts/start.sh
