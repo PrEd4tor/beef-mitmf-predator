@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd 
+bash /root/Desktop/beef-mitmf-predator/PrEdAtOr-scripts/start.sh
